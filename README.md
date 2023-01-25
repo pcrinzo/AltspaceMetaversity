@@ -12,9 +12,15 @@ to more easily create virtual events. People from around the world can use this 
 
 
 The image below refers to creating the enviroment exported to Unity:
-![alt Enviroment in Blender](unityexport.PNG "Enviroment in Unity")
+![alt Enviroment in Unity](unityexport.PNG "Enviroment in Unity")
 
-:school:The image below is part of the environment that the user has access to:
 
+:school:The image below is part of the environment that the user has access to: CNK297
+![alt Enviroment in AltSpaceVR](AltspaceMetaversity.PNG "Enviroment in Unity")
+
+
+:point_right:You can access through this code: CNK297
+
+Go and get a chance to visit the environment! The platform is is shutting down on march 10th, 2023
 
 
